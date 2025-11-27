@@ -176,7 +176,7 @@ export const Hero: React.FC = () => {
               View Projects <ChevronRight className="w-4 h-4" />
             </a>
             <a 
-              href="/Portfolio/resume.pdf"
+              href=""https://ShariqAdnan-03.github.io/Portfolio/resume.pdf""
               download
               className="px-8 py-3 border-2 border-primary-light dark:border-primary-dark text-primary-light dark:text-primary-dark rounded-full font-semibold hover:bg-primary-light/10 dark:hover:bg-primary-dark/10 transition-all flex items-center gap-2"
             >
