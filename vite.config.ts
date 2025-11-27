@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
     // This is the CRITICAL line for GitHub Pages
-    base: "/My-Portfolio/", 
+    base: "/Portfolio/", 
 
     server: {
       port: 3000,
